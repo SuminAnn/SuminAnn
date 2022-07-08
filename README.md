@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 <h2 align=center>💻Tech Stack💻</h2>
 <h3 align=center>Languages & Framework</h3>
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)](https://github.com/SuminAnn) <br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <br> 
