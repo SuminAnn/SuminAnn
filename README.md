@@ -26,23 +26,22 @@ Here are some ideas to get you started:
 <h2 align=center>💻Tech Stack💻</h2>
 <h3 align=center>Languages & Framework</h3>
 <div align=center>
-  <img alt="Java" src ="https://img.shields.io/badge/Java-0052CC.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-0052CC?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-#1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-0052CC.svg?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
+  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
+  <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>&nbsp
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp
+  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp
 </div><br>
 
 <h3 align=center>Database</h3>
 <div align=center>
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-#CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-#4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+  <img alt="Microsoft SQL Server" src ="https://img.shields.io/badge/Microsoft SQL Server-CC2927.svg?&style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>&nbsp
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>&nbsp
 </div><br>
 
 <h3 align=center>Tools</h3>
 <div align=center>
-  <img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GitLab-#FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Sourcetree-#0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a>
+  <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp
+  <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>&nbsp
+  <img alt="Sourcetree" src ="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>&nbsp
 </div><br>
