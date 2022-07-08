@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h2 align=center>💻Tech Stack💻</h2>
 <h3 align=center>Languages & Framework</h3>
 <div align=center>
-  <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-0052CC.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-0052CC?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
