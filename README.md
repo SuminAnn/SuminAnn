@@ -6,7 +6,8 @@
 <p align=center>태도는 큰 차이를 가져올 수 있는 작은 요소다</p>
 <p align=center>열심히보다 잘하는 개발자로 성장하고 싶습니다.</p>
 
-
+<br>
+<br>
 <h3 align=center>💻Tech Stack💻</h3>
 <!--
 **SuminAnn/SuminAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
