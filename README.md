@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <p align=center>열심히보다 잘하는 개발자로 성장하고 싶습니다.</p>
 <div align=center>
   [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=Bloglovin&logoColor=white)](https://create-something-from-nothing.tistory.com)
-  <img src ="https://img.shields.io/badge/annsumin2066@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>()&nbsp
 </div><br><br>
 
 
