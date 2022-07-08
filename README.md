@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h2 align=center>💻Tech Stack💻</h2>
 <h3 align=center>Languages & Framework</h3>
 <div align=center>
-  <a href="https://github.com/SuminAnn"><img src ="https://img.shields.io/badge/Java-4169E1.?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
+  <a href="https://github.com/SuminAnn"><img src ="https://img.shields.io/badge/Java-4169E1?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
   <a href="https://github.com/SuminAnn"><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
   <a href="https://github.com/SuminAnn"><img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>&nbsp
   <a href="https://github.com/SuminAnn"><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp
