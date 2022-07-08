@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFDC3C&height=300&section=header&text=Welcome&fontColor=0000FF&fontSize=70&fontAlignY=30&desc=Sumin%20GitHub%20Profile&descAlign=60&descAlignY=45)
 
-                  ⚡Introduction
+<div align=center>😝Introduction</center>
 <!--
 **SuminAnn/SuminAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
