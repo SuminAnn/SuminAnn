@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align=center>태도는 큰 차이를 가져올 수 있는 작은 요소다</p>
 <p align=center>열심히보다 잘하는 개발자로 성장하고 싶습니다.</p>
 <div align=center>
-  
+  <a href="https://create-imagination-from-say-no.tistory.com"><img alt="Blog" src ="https://img.shields.io/badge/Bloglovin-000000.svg?&style=for-the-badge&logo=Bloglovin&logoColor=white"/>&nbsp
 </div><br><br>
 
 
