@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 <p align=center>태도는 큰 차이를 가져올 수 있는 작은 요소다</p>
 <p align=center>열심히보다 잘하는 개발자로 성장하고 싶습니다.</p>
 <div align=center>
-    <img alt="Java" src ="https://img.shields.io/badge/Java-0052CC.svg?&style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
+   [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=Bloglovin&logoColor=white)](https://create-imagination-from-say-no.tistory.com)
+  <img alt="Gmail" src ="https://img.shields.io/badge/annsumin2066@gmail.com-#EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>&nbsp
 </div><br><br>
 
 
 <h2 align=center>💻Tech Stack💻</h2>
 <h3 align=center>Languages & Framework</h3>
 <div align=center>
-  [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=Bloglovin&logoColor=white)](https://create-imagination-from-say-no.tistory.com)
-  <img alt="Gmail" src ="https://img.shields.io/badge/annsumin2066@gmail.com-#EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>&nbsp
+  
 </div><br>
 
 <h3 align=center>Database</h3>
