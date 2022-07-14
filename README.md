@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 
 <h2 align=center>🐱Git Hub🐱</h2>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuminAnn&show_icons=true&theme="tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuminAnn&layout=compact&theme="tokyonight">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=SuminAnn&show_icons=true&theme="tokyonight">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuminAnn&layout=compact&theme="tokyonight">
 </p>
