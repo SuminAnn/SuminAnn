@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <div align=center>
   <a href="https://create-imagination-from-say-no.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blog&logoColor=white"/></a>&nbsp
   <a href="https://github.com/SuminAnn"><img src="https://img.shields.io/badge/annsumin2066@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg? url=https%3A%2F%2Fgithub.com%2FSuminAnn&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp
 </div><br><br>
 
 
@@ -49,3 +50,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/SuminAnn"><img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>&nbsp
   <a href="https://github.com/SuminAnn"><img alt="Sourcetree" src ="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white"/>&nbsp
 </div><br>
+
+<h2 align=center>🐱Git Hub🐱</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuminAnn&layout=compact)](https://github.com/SuminAnn/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuminAnn&show_icons=true&theme=radical)
